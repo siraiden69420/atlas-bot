@@ -1,0 +1,49 @@
+{
+    "1548642179751084035": {
+        "tickets": {
+            "panels": {
+                "title": "🎫 Support Tickets",
+                "description": "Need help from our staff team?\n\nClick the button below to create a private support ticket.",
+                "buttonText": "Create Ticket",
+                "buttonEmoji": "🎫",
+                "color": 5793266
+            },
+            "active": {},
+            "enabled": true,
+            "category": "1548654039670194246",
+            "staffRole": "1548653976583671888",
+            "logChannel": "1548651312265039932"
+        },
+        "logging": {
+            "events": [
+                "moderation"
+            ],
+            "enabled": true,
+            "channel": "1548651312265039932"
+        }
+    },
+    "1543306680669053009": {
+        "logging": {
+            "channel": "1544438488248754327",
+            "events": [
+                "moderation"
+            ],
+            "enabled": true
+        },
+        "tickets": {
+            "category": "1543325847174250636",
+            "staffRole": "1543314992453914704",
+            "logChannel": "1543325927365152978",
+            "panels": {
+                "title": "🎫 Support Tickets",
+                "description": "Need help from our staff team?\n\nClick the button below to create a private support ticket.",
+                "buttonText": "Create Ticket",
+                "buttonEmoji": "🎫",
+                "color": 5793266
+            },
+            "active": {},
+            "enabled": true
+        },
+        "prefix": "!"
+    }
+}

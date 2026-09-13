@@ -1,0 +1,55 @@
+{
+    "users": {
+        "1221055882515709975": {
+            "premium": true,
+            "redeemedCodes": [
+                {
+                    "code": "ATLAS-8DB28E-4C6E25-8F098D",
+                    "redeemedAt": "2026-09-13T14:04:50.936Z"
+                }
+            ],
+            "activatedServers": [
+                {
+                    "guildId": "1548642179751084035",
+                    "guildName": "olis lounge",
+                    "activatedAt": "2026-09-13T14:12:32.091Z"
+                }
+            ]
+        }
+    },
+    "codes": {
+        "ATLAS-8DB28E-4C6E25-8F098D": {
+            "owner": "1221055882515709975",
+            "uses": 0,
+            "used": 1,
+            "createdAt": "2026-09-13T14:04:24.295Z"
+        },
+        "ATLAS-23D56F-06B199-3F006C": {
+            "owner": "1221055882515709975",
+            "uses": 0,
+            "used": 1,
+            "activatedServers": [
+                {
+                    "guildId": "1548642179751084035",
+                    "guildName": "olis lounge",
+                    "userId": "1221055882515709975",
+                    "activatedAt": "2026-09-13T14:12:32.091Z"
+                }
+            ],
+            "createdAt": "2026-09-13T14:12:02.108Z"
+        }
+    },
+    "servers": {
+        "1548642179751084035": {
+            "premium": true,
+            "activatedBy": "1221055882515709975",
+            "activatedAt": "2026-09-13T14:12:32.091Z",
+            "activatedWith": "ATLAS-23D56F-06B199-3F006C",
+            "name": "sigma",
+            "avatar": null,
+            "banner": null,
+            "bio": null,
+            "guildName": "olis lounge"
+        }
+    }
+}
